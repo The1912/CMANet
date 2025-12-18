@@ -6,3 +6,13 @@ CMANet: Cross-Modality Attention Network for Indoor-Scene Semantic Segmentation
 
 
 
+@article{zhu2022cmanet,
+  title={CMANet: Cross-modality attention network for indoor-scene semantic segmentation},
+  author={Zhu, Longze and Kang, Zhizhong and Zhou, Mei and Yang, Xi and Wang, Zhen and Cao, Zhen and Ye, Chenming},
+  journal={Sensors},
+  volume={22},
+  number={21},
+  pages={8520},
+  year={2022},
+  publisher={MDPI}
+}
